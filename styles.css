@@ -1,0 +1,27 @@
+*{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: Josefin sans;
+    }
+
+    .clock{
+        margin-inline: auto;
+        background-color:rgb(92, 89, 89) ;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 3rem 4rem;
+        height: 100vh;
+    }
+    .clock span{
+        display: block;
+        font-size: 20px;
+        width: 100%;
+        text-align: center;
+        margin: 10px;
+        border: 2px solid grey;
+        background-color: grey;
+        color: yellow;
+        padding: 20px;
+    }
