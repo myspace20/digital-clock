@@ -5,6 +5,11 @@
         font-family: Josefin sans;
     }
 
+h1 {
+        text-align:center;
+        color:grey;
+}
+
     .clock{
         margin-inline: auto;
         background-color:rgb(92, 89, 89) ;
